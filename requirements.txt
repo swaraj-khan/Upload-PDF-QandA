@@ -6,3 +6,6 @@ genai==2.1.0
 google-generativeai==0.5.4
 wheel
 setuptools
+tiktoken
+tiktoken --no-build-isolation
+msvc-runtime
